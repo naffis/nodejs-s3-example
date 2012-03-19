@@ -20,8 +20,8 @@ Add your S3 credentials:
 
 Run the app:
 
-		node app.js
+    node app.js
 		
 Then in your browser replace src with the file you wish to upload to s3:
 		
-		http://localhost:3000/?src=http://www.example.com/file-to-download.txt
+    http://localhost:3000/?src=http://www.example.com/file-to-download.txt
